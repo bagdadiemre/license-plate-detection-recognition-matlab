@@ -35,6 +35,6 @@ The code takes an image, preprocesses it, detects potential license plate candid
 ## Examples
 
 ![plate1raw](plate1raw.jpeg)
-![plate1text](plate1raw.jpeg)
-![plate2raw](plate1raw.jpeg)
-![plate2text](plate1raw.jpeg)
+![plate1text](plate1text.jpeg)
+![plate2raw](plate2raw.jpeg)
+![plate2text](plate2text.jpeg)
